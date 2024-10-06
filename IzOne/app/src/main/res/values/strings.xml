@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">IZ*ONE</string>
+    <string name="group_name">IZ*ONE</string>
+    <string name="hangul_name">(아이즈원) (アイズワン)</string>
+    <string name="group_description">A South Korean-Japanese girl group formed by MNET’s Produce48, the third season of Produce 101. Produce48 brought together Japanese trainees from AKB48 and their sister groups and Korean trainees from many different labels. The group was co-managed by Off The Record Entertainment in Korea and AKS (the company that manages AKB48) in Japan. IZ*ONE debuted in Korea on October 29th, 2018 and they debuted in Japan on February 6, 2019. IZ*ONE promoted for 2 years and 6 months. They officially disbanded on April 29th, 2021 :(</string>
+    <string name="members_profile">Members Profile:</string>
+
+    <string-array name="member_name">
+        <item>Jang Wonyoung</item>
+        <item>Miyawaki Sakura</item>
+        <item>Jo Yuri</item>
+        <item>Choi Yena</item>
+        <item>Ahn Yujin</item>
+        <item>Yabuki Nako</item>
+        <item>Kwon Eunbi</item>
+        <item>Kang Hyewon</item>
+        <item>Honda Hitomi</item>
+        <item>Kim Chaewon</item>
+        <item>Kim Minju</item>
+        <item>Lee Chaeyeon</item>
+    </string-array>
+    <string-array name="member_position">
+        <item>Dancer, Center, Maknae</item>
+        <item>Vocal</item>
+        <item>Main Vocal</item>
+        <item>Rapper, Vocal, Dancer</item>
+        <item>Vocal, Dancer, Rapper</item>
+        <item>Vocal</item>
+        <item>Leader, Dancer, Vocal</item>
+        <item>Rapper, Vocal, Visual</item>
+        <item>Dancer, Vocal</item>
+        <item>Dancer, Vocal</item>
+        <item>Vocal, Dancer, Visual</item>
+        <item>Vocal</item>
+    </string-array>
+    <string-array name="member_description">
+        <item>Jang Wonyoung (장원영) <br /> is a member of the South Korean girl group IVE under Starship Entertainment. She is a former member of the South Korean-Japanese girl group IZ*ONE under Off The Record Entertainment.</item>
+        <item>SAKURA is a member of LE SSERAFIM under and a former member of the South Korean-Japanese girl group IZ*ONE.</item>
+        <item>Jo Yuri (조유리) is a South Korean solo singer and actress under WAKEONE. She is a former member of the South Korean-Japanese girl group IZ*ONE. She made her official solo debut on October 7, 2021 with the single “GLASSY”.</item>
+        <item>Yena (예나) is a South Korean solo artist and television personality under Yuehua Entertainment. She is a former member of the South Korean-Japanese girl group IZ*ONE under Off the Record Entertainment. She debuted solo on January 17th, 2022 with the mini album, ˣ‿ˣ (SMiLEY).</item>
+        <item>Ahn Yujin (안유진) is a member of the South Korean girl group IVE under Starship Entertainment. She is a former member of the South Korean-Japanese girl group IZ*ONE under Off The Record Entertainment.</item>
+        <item>Yabuki Nako is an active member of the Japanese girl group HKT48 Team H under EMI Records and a former member of the South Korean-Japanese girl group IZ*ONE under Off The Record Entertainment.</item>
+        <item>Kwon Eunbi (권은비) is a South Korean soloist under Woollim Entertainment. She is a former member of the South Korean-Japanese girl group IZ*ONE under Off the Record Entertainment. She debuted solo on August 24, 2021 with the EP album “Open“.</item>
+        <item>Kang Hyewon is a South Korean actress and singer under 8D Entertainment, former 8D Creative. She is a former member of the South Korean-Japanese girl group IZ*ONE under Off the Record Entertainment.</item>
+        <item>Hitomi (히토미) is a member of SAY MY NAME and a former member of AKB48 and the South Korean-Japanese girl group,  IZ*ONE.</item>
+        <item>Kim Chaewon (김채원) is a member of LE SSERAFIM and former member of the South Korean-Japanese girl group IZ*ONE.</item>
+        <item>Kim Minju is a South Korean actress under Urban Works and a former member of the South Korean-Japanese girl group IZ*ONE under Off The Record Entertainment.</item>
+        <item>Lee Chaeyeon is a South Korean soloist under WM Entertainment. She is a former member of the South Korean-Japanese girl group IZ*ONE under Off The Record Entertainment. She debuted as a soloist on October 12, 2022 with the mini album HUSH RUSH.</item>
+    </string-array>
+    <integer-array name="member_photo">
+        <item>@drawable/wonyoung</item>
+        <item>@drawable/sakura</item>
+        <item>@drawable/joyuri</item>
+        <item>@drawable/choiyena</item>
+        <item>@drawable/ahnyujin</item>
+        <item>@drawable/nako</item>
+        <item>@drawable/kwoneunbi</item>
+        <item>@drawable/kanghyewon</item>
+        <item>@drawable/hondahitomi</item>
+        <item>@drawable/kimchaewon</item>
+        <item>@drawable/kimminju</item>
+        <item>@drawable/leechaeyeon</item>
+    </integer-array>
+    <string-array name="member_birth_name">
+        <item>Jang Won Young (장원영)</item>
+        <item>Miyawaki Sakura (宮脇咲良) (미야와키 사쿠라)</item>
+        <item>Jo Yu Ri (조유리)</item>
+        <item>Choi Yena (최예나)</item>
+        <item>An Yu Jin (안유진)</item>
+        <item>Yabuki Nako (矢吹奈子/야부키나코)</item>
+        <item>Kwon Eunbi (권은비)</item>
+        <item>Kang Hyewon (강혜원)</item>
+        <item>Honda Hitomi (本田仁美) (ほんだ ひとみ)</item>
+        <item>Kim Chaewon (김채원)</item>
+        <item>Kim Min Ju (김민주)</item>
+        <item>Lee Chaeyeon (이채연)</item>
+    </string-array>
+    <string-array name="member_birthday">
+        <item>August 31, 2004</item>
+        <item>March 19, 1998</item>
+        <item>October 22, 2001</item>
+        <item>September 29, 1999</item>
+        <item>September 1, 2003</item>
+        <item>June 18, 2001</item>
+        <item>September 27, 1995</item>
+        <item>July 5, 1999</item>
+        <item>October 6th, 2001</item>
+        <item>August 1, 2000</item>
+        <item>February 5, 2001</item>
+        <item>January 11, 2000</item>
+    </string-array>
+
+    <string name="dev_name">Aziz Rahmad</string>
+    <string name="dev_email">rahmadaziz288@gmail.com</string>
+    <string name="profile">Profile</string>
+    <string name="iz_one_s_photo_group">IZ*ONE\'s photo group</string>
+    <string name="my_photo">My Photo</string>
+    <string name="back">Back</string>
+    <string name="share">Share :)</string>
+    <string name="birth_name">Birth name</string>
+    <string name="birthday">Birthday</string>
+    <string name="position">Position</string>
+</resources>
